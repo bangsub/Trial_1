@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Test</title>
+    </head>
+    <body>
+        <h1>Hello <span id="name">Bangsub</span> Welcome </h1>
+        <p>Paragraf test</p>
+        <script src="js/index.js"></script>
+    </body>
+</html>
